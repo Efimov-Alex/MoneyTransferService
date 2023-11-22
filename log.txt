@@ -1,0 +1,8 @@
+[21 нояб. 2023 г.:18.28.21.92605900] Try: Transfer   amount: value: 520.0 currency:  RUB cardFromNumber: 1234123412341234 cardToNumber: 5678567856785678
+[21 нояб. 2023 г.:18.32.14.955270500] Try: Transfer   amount: value: 520.0 currency:  RUB cardFromNumber: 1234123456341234 cardToNumber: 5678567856785678
+[21 нояб. 2023 г.:18.32.22.768782000] Try: Transfer   amount: value: 520.0 currency:  RUB cardFromNumber: 1234121256341234 cardToNumber: 5678567856785678
+[21 нояб. 2023 г.:18.32.48.484806700] Error confirm: Transfer   amount: value: 520.0 currency:  RUB cardFromNumber: 1234123456341234 cardToNumber: 5678567856785678
+[21 нояб. 2023 г.:18.32.52.996839000] Error confirm: Transfer   amount: value: 520.0 currency:  RUB cardFromNumber: 1234123456341234 cardToNumber: 5678567856785678
+[21 нояб. 2023 г.:18.32.58.416694900] Error confirm: Transfer   amount: value: 520.0 currency:  RUB cardFromNumber: 1234121256341234 cardToNumber: 5678567856785678
+[22 нояб. 2023 г.:14.38.13.678066200] Try: Transfer   amount: value: 520.0 currency:  RUB cardFromNumber: 1234123412341234 cardToNumber: 5678567856785678
+[22 нояб. 2023 г.:14.38.40.17486100] Error confirm: Transfer   amount: value: 520.0 currency:  RUB cardFromNumber: 1234123412341234 cardToNumber: 5678567856785678
